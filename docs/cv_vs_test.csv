@@ -1,0 +1,4 @@
+modelo,tipo,precision,recall,f1,roc_auc,pr_auc,accuracy
+Gradient Boosting,CV (media),0.0,0.0,0.0,0.668421,0.113952,0.94515
+Gradient Boosting,TRAIN interno (media),0.6,0.000911,0.00182,0.763965,0.242548,0.9452
+Gradient Boosting,TEST final,0.0,0.0,0.0,0.678975,0.124515,0.9452

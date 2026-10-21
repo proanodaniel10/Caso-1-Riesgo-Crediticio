@@ -1,0 +1,16 @@
+# Dataset original
+data/
+
+# Entornos virtuales de Python
+.venv/
+.venv312/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos de configuración privada
+.env
+.env.*

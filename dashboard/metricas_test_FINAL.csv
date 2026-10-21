@@ -1,0 +1,2 @@
+modelo,precision,recall,f1,roc_auc,pr_auc,accuracy
+Gradient Boosting,0.0,0.0,0.0,0.678975,0.124515,0.9452

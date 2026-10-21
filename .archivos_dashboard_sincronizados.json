@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "archivos": [
+    ".nojekyll",
+    "app.js",
+    "comparacion_cv.csv",
+    "cv_vs_test.csv",
+    "datos.js",
+    "escenarios_costo_oof.csv",
+    "index.html",
+    "metricas_por_fold.csv",
+    "metricas_test_FINAL.csv",
+    "styles.css"
+  ]
+}
