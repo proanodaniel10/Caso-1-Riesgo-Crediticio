@@ -1,4 +1,4 @@
-# Caso 48 UCE — Predicción de incumplimiento crediticio
+# Caso 1 UCE — Predicción de incumplimiento crediticio
 
 Proyecto completo de minería de datos basado en el **caso oficial de dos páginas** y en el archivo sintético `riesgo_crediticio_bigdata.csv` (50.000 filas, 16 columnas).
 
@@ -65,7 +65,7 @@ El **holdout de prueba nunca se utiliza para selección de modelo o de hiperpar�
 
 ## 6. Referencias
 
-- Caso 48 UCE, enunciado académico suministrado, pp. 1–2.
+- Caso 1 UCE, enunciado académico suministrado, pp. 1–2.
 - scikit-learn: https://scikit-learn.org/stable/
 - GitHub Pages: https://docs.github.com/en/pages
 

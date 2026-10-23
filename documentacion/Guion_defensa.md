@@ -1,4 +1,4 @@
-# Guion de defensa — Caso 48 UCE (8–12 minutos)
+# Guion de defensa — Caso 1 UCE (8–12 minutos)
 
 **Antes de empezar:** abre el dashboard en `docs/index.html`. Lleva el informe PDF, el PowerPoint y el CSV de métricas exportado. Explica lo que hiciste, no afirmes que funciona como un banco real. Los datos son sintéticos.
 
